@@ -1,0 +1,23 @@
+Ainda não está passando no teste
+
+
+
+let limit = parseInt(gets());
+
+
+
+for (let i = 1; i <= limit; i++) {
+
+  
+
+ let X =(i*i);
+
+ let Y = (i*X);
+
+
+
+ print(i,X,Y);
+
+}
+
+-----------------------------------------------------
