@@ -32,6 +32,6 @@ In the project directory, you can run:
 * 01/05/2022 - Inclusão da Api
   Foi utilizado a api Herokuapp e adicionado o mais belo pais para teste.
   Link: https://coronavirus-19-api.herokuapp.com/countries/brazil
-* Criação dos componentes
+* Criação dos componentes:
   Button, Card, Grid, MenuItem, Select, Skeleton, Typograghy.
 
