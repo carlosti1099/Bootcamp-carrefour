@@ -26,9 +26,12 @@ In the project directory, you can run:
 * npm install @material-ui/styles
 
 * npm install --save-dev customize-cra
+* 
 ### Etapas da aplicação
 * 27/04/2022 - Criação do projeto
 * 01/05/2022 - Inclusão da Api
   Foi utilizado a api Herokuapp e adicionado o mais belo pais para teste.
   Link: https://coronavirus-19-api.herokuapp.com/countries/brazil
+* Criação dos componentes
+  Button, Card, Grid, MenuItem, Select, Skeleton, Typograghy.
 
