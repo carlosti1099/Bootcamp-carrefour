@@ -1,7 +1,6 @@
 import React, { memo } from 'react'
 import PropTypes from 'prop-types'
 import { Grid, Skeleton } from '../../../components'
-import { getByDisplayValue } from '@testing-library/react'
 import Card from './Card'
 
 function Board({ data }) {
@@ -11,9 +10,11 @@ function Board({ data }) {
     
     return (
         <Grid container spacing={4}>
-            <Grid item xs={12} md={3}>
-                <card value={getByDisplayValue(cases)} label="Total de casos" color="#5d78ff" />
-            </Grid>
+          <Grid item xs={12} md={3}>
+            <Card value={getValue(cases)} label="Total de Casos" color="#77ff5d" />
+          </Grid>
         </Grid>
     )
 }
+
+export default memo(Board)
