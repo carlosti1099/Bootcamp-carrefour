@@ -5,7 +5,7 @@ import { ContainerStyled } from './style'
 
 function Main() {
     const [data, setData] = useState({})
-    const [country, setCountry] = useState('brazil')
+    const [country, setCountry] = useState('china')
 
     const getCovidData = useCallback((country) => {
         Api.getCountry(country)
