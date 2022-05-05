@@ -36,6 +36,7 @@ In the project directory, you can run:
   Button, Card, Grid, MenuItem, Select, Skeleton, Typograghy.
 * 04/05/2022 - Criação dos 5 cards buscando api
 ![covid19](https://user-images.githubusercontent.com/66273229/166717083-26507982-df18-44da-9586-495fb05f86f1.png)
+* Covid19 pronto usando api HeroKuapp
 
 
 
